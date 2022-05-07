@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-😄 While you are here, please check [this out](https://github.com/pakstas/Cinema-frontend).
+😄 While you are here, please check my projects:
+- Cinema App Frontend [Cinema-frontend](https://github.com/pakstas/Cinema-frontend).
+- Cinema App Rest API [Cinema-backend](https://github.com/pakstas/Cinema-backend).
+- Fuel Consumption App [fuelApp](https://github.com/pakstas/fuelApp).
+
+
 <!--
 **pakstas/pakstas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
