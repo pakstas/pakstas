@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 While you are here, please check my projects:
+While you are here, please check my latest projects:
 - Cinema App Frontend [Cinema-frontend](https://github.com/pakstas/Cinema-frontend).
 - Cinema App Rest API [Cinema-backend](https://github.com/pakstas/Cinema-backend).
 - Fuel Consumption App [fuelApp](https://github.com/pakstas/fuelApp).
