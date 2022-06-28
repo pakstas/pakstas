@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 While you are here, please check my latest projects:
+- Admin and Dashboard for Cinema App [Link](https://github.com/pakstas/Cinema-admin).
+- Portfolio Website [Link](https://github.com/pakstas/Personal-page).
 - Cinema App Frontend [Cinema-frontend](https://github.com/pakstas/Cinema-frontend).
-- Cinema App Rest API [Cinema-backend](https://github.com/pakstas/Cinema-backend).
+- Cinema App Rest API [Cinema-backend](https://github.com/pakstas/Cinema-vercel-backend).
 - Fuel Consumption App [fuelApp](https://github.com/pakstas/fuelApp).
 
 
